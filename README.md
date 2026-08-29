@@ -1,5 +1,8 @@
 # Zepto Inventory & Sales Analysis
 
+![image alt](https://github.com/AnkitaSarkar-98/Zepto-Inventory-Sales-Analysis-Power-BI/blob/main/Zepto%20Analysis-Dashboard1.png?raw=true)
+
+
 ## Overview
 This project presents an end-to-end data analysis of Zepto's sales performance, inventory health, and delivery efficiency from January to June 2024. The objective is to identify key operational inefficiencies, track sales trends across product categories, monitor stock levels, and evaluate delivery timelines to optimize supply chain management and inventory reordering strategies.
 
